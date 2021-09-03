@@ -1,0 +1,5 @@
+paddleA: w --UP
+         s --DOWN
+ 
+paddleB: arrow --UP
+         arrow --DOWN
