@@ -1,8 +1,9 @@
+Designed & coded by Sandra Ashipala <https://github.com/sandramsc>
 import turtle
 import winsound
 
 window = turtle.Screen()
-window.title("Pong by @sajustsmile")
+window.title("Pong by @sandramsc")
 window.bgcolor("black")
 window.setup(width=850, height=620)
 window.tracer(0)
